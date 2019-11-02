@@ -42,3 +42,12 @@ nav
 
 {color: rgb(255, 187, 0);
 }
+
+
+.link1 :hover
+
+  {background-color: rgb(78, 74, 117) ;}
+
+ .youtube :hover
+
+ {background-color: rgb(78, 74, 117) ;}

@@ -57,12 +57,14 @@ input
 }
 
 ::placeholder
-{color: black}
+{color: black;
+
+}
 
 .button
 
 {width:55px;
-    height: 25px;
+    height: 30px;
 
 }
 
@@ -71,5 +73,34 @@ textarea
 {background-color: gray;
 width: 100px;
 height: 50px;
+padding: 20px;
+border-radius: 18px;
 
 }
+
+.text
+
+{
+    padding: 10px;
+border-radius: 10px;
+
+
+
+}
+
+.email
+
+{
+    padding: 10px;
+    border-radius: 10px;
+width: 200px;    
+
+}
+
+.link1 :hover
+
+  {background-color: rgb(78, 74, 117) ;}
+
+ .youtube :hover
+
+ {background-color: rgb(78, 74, 117) ;}
