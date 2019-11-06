@@ -1,0 +1,36 @@
+body
+{ background-image: url("./bg.png")}
+
+
+.wrapper
+
+{
+position: absolute;
+left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+z-index: 0;
+}
+
+iframe
+
+{
+position: absolute;
+
+left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+z-index: 1;
+}
+
+.banderole
+
+{
+    position: absolute;
+    right: 31.5%;
+bottom: 25%;
+
+z-index: 2;
+}

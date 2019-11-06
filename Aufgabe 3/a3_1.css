@@ -1,0 +1,56 @@
+body
+{ background-image: url("./bg.png")}
+
+.flex 
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+
+.pinguin 
+{
+position: absolute;
+right: 5px;
+bottom: 5px;
+
+}
+
+.busch
+
+{
+position: absolute;
+left: -30px;
+top: -30px;
+}
+
+
+h1
+{
+position: absolute;
+text-align: left;
+top: 40%;
+left: 34%;
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+
+}
+
+p
+
+{
+position: absolute;
+text-align: left;
+top: 47%;
+left: 35%;
+font-size: 20px;
+color: white;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+}

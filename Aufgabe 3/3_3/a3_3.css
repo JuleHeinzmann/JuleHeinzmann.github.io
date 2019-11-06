@@ -1,0 +1,90 @@
+body
+{ background-image: url("./bg.png")}
+
+.wrapper
+
+{
+    position: absolute;
+    left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+
+
+}
+
+.stern1
+
+{
+position: absolute;
+top: 40%;
+left: 60%
+
+}
+
+.stern2
+
+{
+position: absolute;
+top: 60%;
+right: 60%;
+
+
+}
+
+.stern3
+
+{
+position: absolute;
+bottom: 35%;
+right: 43%
+
+}
+
+.stern4
+
+{
+position: absolute;
+top: 48%;
+left: 43%;
+
+}
+
+.stern1:hover
+
+{
+    background-image: url(./stern_hover.png);
+
+}
+
+.stern2:hover
+
+{
+background-image: url(./stern_hover.png);
+
+
+}
+
+.stern3:hover
+{
+    background-image: url(./stern_hover.png);
+
+
+    
+}
+
+.stern4:hover
+{
+    background-image: url(./stern_hover.png);
+
+}
+
+h1
+{
+    position: absolute;
+    text-align: left;
+    top: 35%;
+    left: 34%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
+
+}

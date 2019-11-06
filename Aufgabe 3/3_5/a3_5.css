@@ -1,0 +1,42 @@
+body
+{ background-image: url("./bg.png")}
+
+.wrapper
+
+{
+position: absolute;
+left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+
+
+}
+
+form
+
+{
+color: white;
+position: absolute;
+right: 49%;
+bottom:28%;
+
+}
+
+.text2
+
+{
+height: 50px;
+
+
+}
+
+h1
+
+{
+color: white;
+position: absolute;
+right: 57.5%;
+bottom: 64%;
+
+
+}

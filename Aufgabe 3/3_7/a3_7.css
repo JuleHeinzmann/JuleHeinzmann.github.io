@@ -1,0 +1,93 @@
+body
+{ background-image: url("./bg.png")}
+
+.container
+
+{
+    position: absolute;
+    left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+
+
+z-index: 0;
+}
+
+.gifts
+
+{
+position: absolute;
+top: 60%;
+left: 55%;
+z-index: 2;
+
+}
+
+.plant
+
+{
+position: absolute;
+
+top: 20%;
+right: 60%;
+z-index: 1;
+}
+
+.stern1
+
+{
+position: absolute;
+top: 30%;
+left: 50%;
+z-index: 3;
+}
+
+.stern2
+
+{
+position: absolute;
+top: 35%;
+left: 40%;
+z-index: 3;
+
+}
+
+.stern3
+
+{
+position: absolute;
+top: 37%;
+left: 60%;
+z-index: 3;
+}
+
+.feuer
+
+{
+position: absolute;
+
+left: 51.5%;
+bottom: 28%;
+z-index: 1;
+}
+
+h1
+{
+color: white;
+position: absolute;
+left: 35%;
+bottom: 50%;
+z-index: 4;
+
+}
+
+article
+
+{
+color: white;
+position: absolute;
+left: 35%;
+bottom: 34%;
+z-index: 4;
+
+}
