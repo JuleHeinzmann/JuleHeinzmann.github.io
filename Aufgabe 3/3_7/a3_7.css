@@ -1,7 +1,7 @@
 body
 { background-image: url("./bg.png")}
 
-.container
+.flex
 
 {
     position: absolute;
@@ -17,8 +17,8 @@ z-index: 0;
 
 {
 position: absolute;
-top: 60%;
-left: 55%;
+top: 67%;
+left: 67%;
 z-index: 2;
 
 }
@@ -28,9 +28,9 @@ z-index: 2;
 {
 position: absolute;
 
-top: 20%;
-right: 60%;
-z-index: 1;
+top: -10%;
+right: 75%;
+z-index: 5;
 }
 
 .stern1
@@ -66,8 +66,8 @@ z-index: 3;
 {
 position: absolute;
 
-left: 51.5%;
-bottom: 28%;
+left: 54.7%;
+bottom: 8%;
 z-index: 1;
 }
 
@@ -75,8 +75,8 @@ h1
 {
 color: white;
 position: absolute;
-left: 35%;
-bottom: 50%;
+left: 10%;
+bottom: 65%;
 z-index: 4;
 
 }
@@ -86,7 +86,7 @@ article
 {
 color: white;
 position: absolute;
-left: 35%;
+left: 10%;
 bottom: 34%;
 z-index: 4;
 
