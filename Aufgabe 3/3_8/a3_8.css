@@ -2,7 +2,7 @@ body
 { background-image: url("./bg.png")}
 
 
-.wrapper
+.flex
 
 {
 position: absolute;
@@ -29,8 +29,8 @@ z-index: 1;
 
 {
     position: absolute;
-    right: 31.5%;
-bottom: 25%;
+    right: 1%;
+bottom: 2%;
 
 z-index: 2;
 }
