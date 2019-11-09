@@ -1,7 +1,7 @@
 body
 { background-image: url("./bg.png")}
 
-.wrapper
+.flex
 
 {
 position: absolute;
@@ -18,7 +18,7 @@ form
 color: white;
 position: absolute;
 right: 49%;
-bottom:28%;
+bottom:8%;
 
 }
 
@@ -30,13 +30,3 @@ height: 50px;
 
 }
 
-h1
-
-{
-color: white;
-position: absolute;
-right: 57.5%;
-bottom: 64%;
-
-
-}
