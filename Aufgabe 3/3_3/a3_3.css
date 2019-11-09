@@ -1,7 +1,7 @@
 body
 { background-image: url("./bg.png")}
 
-.wrapper
+.flex
 
 {
     position: absolute;
@@ -17,7 +17,7 @@ body
 {
 position: absolute;
 top: 40%;
-left: 60%
+left: 10%
 
 }
 
@@ -25,8 +25,8 @@ left: 60%
 
 {
 position: absolute;
-top: 60%;
-right: 60%;
+top: 65%;
+right: 50%;
 
 
 }
@@ -35,8 +35,8 @@ right: 60%;
 
 {
 position: absolute;
-bottom: 35%;
-right: 43%
+top: 30%;
+right: 25%
 
 }
 
@@ -44,8 +44,8 @@ right: 43%
 
 {
 position: absolute;
-top: 48%;
-left: 43%;
+top: 54%;
+right: 10%;
 
 }
 
@@ -81,9 +81,8 @@ background-image: url(./stern_hover.png);
 h1
 {
     position: absolute;
-    text-align: left;
-    top: 35%;
-    left: 34%;
+    top: 20%;
+    left: 10%;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif;
 
