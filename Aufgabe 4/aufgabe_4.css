@@ -1,0 +1,137 @@
+body
+{ background-image: url("./bgganz.jpg")}
+
+@media (max-device-width: 450px) 
+{
+.flex
+
+{
+    position: absolute;
+    left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+
+
+}
+
+.frage 
+
+{
+position: absolute;
+
+right: 10%;
+top: 5%;
+height: 100px;
+
+}
+
+h1
+
+{
+position: absolute;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+right: 38%;
+top: 7.5%;
+
+
+}
+
+.button {
+
+    background-color: #0011ff;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    right: 45%;
+    top: 60%;
+
+
+
+}
+
+.button:hover
+{
+background-color: teal;
+
+
+}
+
+article
+
+{
+color: white;
+position: absolute;
+top: 115%;
+right: 30%;
+
+
+}
+
+
+
+
+
+
+}
+
+
+.flex
+
+{
+    position: absolute;
+    left: 50%;
+        top: 52%;
+        transform: translate(-50%, -50%);
+
+
+}
+
+.frage 
+
+{
+position: absolute;
+
+right: 10.5%;
+top: 20%;
+height: 100px;
+
+}
+
+h1
+
+{
+position: absolute;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+right: 38%;
+top: 22%;
+
+
+}
+
+.button {
+
+    background-color: #0011ff;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: absolute;
+    right: 45%;
+    top: 60%;
+
+
+
+}
+
+.button:hover
+{
+background-color: teal;
+
+
+}
