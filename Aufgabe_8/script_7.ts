@@ -35,5 +35,5 @@ function FunctionBeat() {
 
 
 window.addEventListener('load', function () {
-    document.querySelector('.play').addEventListener('click', FunctionBeat);
+    document.querySelector(".play").addEventListener('click', FunctionBeat);
 });
