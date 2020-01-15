@@ -2,10 +2,7 @@ window.addEventListener("load", function(): void {
 document.getElementById("add").addEventListener("click", AddButton);
 
 
-var myHtmlTemplate: string =  "";
-    myHtmlTemplate += "<button onclick=\"CheckedButton(this)\" class=\"far fa-circle checkbox\" id=\"circle" + "\"></button>";
-    //myHtmlTemplate += "<input class=\"firsttask\" id=\"firsttask" +"\" value=\"" + newTaskValue + "\" ></input>";
-    myHtmlTemplate += "<button onclick=\"DeleteTaskText(this)\" class=\"far fa-trash-alt trash\" id=\"delete" +"\"></button>";
+
 
 
 });

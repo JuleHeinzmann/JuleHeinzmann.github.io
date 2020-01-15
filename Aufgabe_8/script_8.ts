@@ -28,7 +28,7 @@ function functionAudio (audio: string): void {
  }  
 }
 
-
+var index: number = 0;
 function FunctionBeat(): void {
 
 
@@ -50,17 +50,17 @@ function FunctionBeat(): void {
     }
 
 
-
+   
     
     
     function FunctionSound(): void {
        
-        var index: number = 0;
-        //functionAudio(beat[index]); 
-        var beatplay: HTMLAudioElement = new Audio(beat[index]);
-        beatplay.play();
+       
+        functionAudio(beat[index]); 
+        
+      
         index += 1;
-        if (index > 7) index = 0;
+        if (index  beat.length) index = 0;
 
     }
 

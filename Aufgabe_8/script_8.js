@@ -22,6 +22,7 @@ function functionAudio(audio) {
         beat.push(audio);
     }
 }
+var index = 0;
 function FunctionBeat() {
     if (document.getElementById("playbutton").classList.contains("fa-play-circle")) {
         document.getElementById("playbutton").classList.remove("fa-play-circle");
@@ -35,13 +36,11 @@ function FunctionBeat() {
         clearInterval(intervall);
     }
     function FunctionSound() {
-        var index = 0;
-        //functionAudio(beat[index]); 
-        var beatplay = new Audio(beat[index]);
-        beatplay.play();
+        functionAudio(beat[index]);
         index += 1;
-        if (index > 7)
-            index = 0;
+        if (index)
+            beat.length;
+        index = 0;
     }
 }
 function FunctionDelete() {
