@@ -1,1 +1,0 @@
-Die Pfade der Asteroiden bieten sich als Klassenattribut an!
