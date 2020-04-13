@@ -1,0 +1,90 @@
+body {
+background-color: rgb(96, 255, 4);
+
+
+
+}
+
+.BereichSpieler
+{
+    width: 75%;
+    height: 30%;
+    
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 50%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    background: green;
+    
+
+}
+
+.BereichComputer
+{
+
+    width: 75%;
+    height: 30%;
+    
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 80%;
+    left: 50%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    background: green;
+
+}
+
+.Ablagestapel
+{
+    width: 10%;
+    height: 27%;
+    
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 30%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    background: black;
+   
+
+    
+
+
+
+}
+
+.Ziehstapel
+{
+    width: 10%;
+    height: 27%;
+    
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 70%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    background: black;
+    border-color: white;
+    border-width: 50px;
+   
+
+
+
+}
